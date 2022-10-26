@@ -13,6 +13,7 @@
   - [Twitter](https://twitter.com/daniel_mackay)
   - [Stack Overflow](https://stackoverflow.com/users/676220/daniel-mackay)
   - [GitHub](https://github.com/danielmackay)
+  - [SSW](https://www.ssw.com.au/People/Daniel-Mackay)
 
 ## Github Stats
         
