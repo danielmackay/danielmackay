@@ -4,7 +4,7 @@
 - 🌍 I'm based in the Sunshine Coast, Australia
 - 💬 Ask me about DevOps, Azure, .NET Core, and EF Core
 - 🎓 I'm currently learning about Next.js, Vercel, React, and GraphQL
-- 👨‍👩‍👧‍👧 Father of 2 (one boy and one girl)
+- 👨‍👩‍👧‍👧 Father of 2 wonderful children (pigeon pair)
 - ⚡ Fun fact: Former New Zealand Rock Climbing Champion
 
 ## How to Reach Me
