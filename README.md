@@ -2,8 +2,8 @@
 
 - 👔 I'm a Solution Architect at SSW
 - 🌍 I'm based in the Sunshine Coast, Australia
-- 💬 Ask me about DevOps, Azure, .NET Core, and EF Core
-- 🎓 I'm currently learning about Next.js, Vercel, React, and GraphQL
+- 💬 Ask me about Clean Architecture Azure, .NET Core, and EF Core
+- 🎓 I'm currently learning about Domain Driven Design
 - 👨‍👩‍👧‍👧 Father of 2 wonderful children (pigeon pair)
 - ⚡ Fun fact: Former New Zealand Rock Climbing Champion
 
