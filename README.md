@@ -4,7 +4,7 @@
 - 🌍 I'm based in the Sunshine Coast, Australia
 - 💬 Ask me about Clean Architecture, .NET Core, EF Core, and Azure
 - ✍️ I blog regularly on [dandoescode.com](https://dandoescode.com)
-- 🎓 I'm currently learning about Domain Driven Design
+- 🎓 I'm currently learning about Modular Monoliths and Domain Driven Design
 - 👨‍👩‍👧‍👧 Father of 2 wonderful children (pigeon pair)
 - ⚡ Fun fact: Former New Zealand Rock Climbing Champion
 
