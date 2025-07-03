@@ -2,7 +2,12 @@
 
 - 👔 I'm a Solution Architect at SSW
 - 🌍 I'm based in the Sunshine Coast, Australia
-- 💬 Ask me about Modular Monoliths, Clean Architecture, Vertical Slice Architecture, Domain Driven Design, .NET Core, EF Core, and Azure
+- 💬 Ask me about:
+    - Software Architecture (Modular Monoliths, Clean Architecture and Vertical Slice Architecture)
+    - Domain Driven Design
+    - .NET Core
+    - EF Core
+    - Azure
 - ✍️ I blog regularly on [dandoescode.com](https://dandoescode.com)
 - 🎓 I'm currently learning about AI and MCP Servers
 - 👨‍👩‍👧‍👧 Father of 2 wonderful children (pigeon pair)
